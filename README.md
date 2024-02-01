@@ -1,2 +1,3 @@
 # Cypress-Testing
-Latihan web automation
+
+Latihan web automation menggunakan Cypress
